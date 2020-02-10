@@ -17,7 +17,7 @@ Deployed on Heroku https://mern-articles.herokuapp.com/articles
 
 ## Contributing
 
-Please read (CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/nezlobnaya/mern_app/commit/b0cd215f43acfda0141e1153d26adbf03ef46f9e) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
