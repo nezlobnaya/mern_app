@@ -17,8 +17,8 @@ mongoose
    .then(() => console.log("Mongo Connection successful"))
    .catch(err => console.log(err));
 
-mongoose.set("useFindAndModify", false);
-mongoose.Promise = global.Promise;
+// mongoose.set("useFindAndModify", false);
+// mongoose.Promise = global.Promise;
 
 
 app.use(cors())
