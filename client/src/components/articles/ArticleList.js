@@ -20,8 +20,8 @@ function ArticleList() {
   return (
     <div>
       <h2>
-        Articles
-        <Link to="/articles/new" className="btn btn-primary float-right">Create Article</Link> 
+        Notes
+        <Link to="/articles/new" className="btn btn-primary float-right">Create Note</Link> 
       </h2>
       <hr/>
       {articles.map((article) => {
