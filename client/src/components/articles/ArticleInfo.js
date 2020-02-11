@@ -29,7 +29,7 @@ function ArticleInfo(props) {
   return ( 
     <div>
       <h2>{article.title}</h2>
-      <small>_id: {article._id}</small>
+      {/* <small>_id: {article._id}</small> */}
       <p>{article.content}</p>
       <div className="btn-group">
         <Link to={`/articles/${article._id}/edit`} className="btn btn-primary">Edit</Link> 
