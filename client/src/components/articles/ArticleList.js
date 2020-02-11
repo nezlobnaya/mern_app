@@ -28,7 +28,7 @@ function ArticleList() {
         return(
           <div key={article._id}>
             <h4><Link to={`/articles/${article._id}`}>{article.title}</Link></h4>
-            <small>_id: {article._id}</small>
+            {/* <small>_id: {article._id}</small> */}
             <hr/>
           </div>
         )     
